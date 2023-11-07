@@ -8,8 +8,8 @@
     margin:0 auto;
     background-color:#222222;
     border-radius: 10%;
-    width: 250px;
-    height: 430px;
+    width: 400pxpx;
+    height: 700px;
     margin-top: 40px;
     padding-left: 30px;
     padding-top: 20px;
@@ -32,8 +32,8 @@ button{
     background-color:#666;
     border-radius: 50%;
     border: none;
-    width: 50px;
-    height: 50px;
+    width: 100px;
+    height: 100px;
     font-size:20px;
     font-weight: bolder;
     color: whitesmoke;
@@ -45,7 +45,7 @@ button{
     background-color: #ccc;
     color: black;
     border-radius: 35px;
-    height: 40px;
+    height: 100px;
     margin-bottom:10px;
     width: 250px;
 
